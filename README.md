@@ -1,1 +1,5 @@
-"# python-notes" 
+# Python Notes
+
+- Getting Started
+- Variables
+- Data Types
