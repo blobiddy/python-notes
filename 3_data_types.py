@@ -4,19 +4,17 @@ Data Types:
     Variables can store data of different types, and different types can do different things.
 
 
-
-
 """
 
 
-# The data type of a varibale can be gotten with the "type" function 
+# The data type of a variable can be gotten with the "type" function
 
 a = 1
 b = 1.2
 c = "Yo yo yo"
 d = "false"
 e = True
-f = ['apple', 'banana','pear']
+f = ['apple', 'banana', 'pear']
 
 
 print("a variable has a value of " + str(a) + " and a type of " + str(type(a)))
